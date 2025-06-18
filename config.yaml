@@ -1,0 +1,58 @@
+api_key: null
+cookie:
+  expiry_days: 30
+  key: cormorano_auth_key_2025
+  name: cormorano_streamlit_auth
+credentials:
+  usernames:
+    admin:
+      email: mike@gmail.com
+      failed_login_attempts: 0
+      first_name: Michele
+      last_name: Land
+      logged_in: false
+      password: $2b$12$l51aRXhMa.jm3iZmiJX/deoL5QQAJdfJF.BUySdTvO9ddq3qKspt.
+      password_hint: admin111--M
+      roles: null
+    jsmith:
+      email: jsmith@gmail.com
+      failed_login_attempts: 0
+      first_name: John
+      last_name: Smith
+      logged_in: false
+      password: $2b$12$lhOfbg3eMo9/TIcgFOvlbuYTGJQBdTLU/ek3SiDOooJNrIktqfKr6
+      roles:
+      - admin
+      - editor
+      - viewer
+    rbriggs:
+      email: rbriggs@gmail.com
+      failed_login_attempts: 0
+      first_name: Rebecca
+      last_name: Briggs
+      logged_in: false
+      password: $2b$12$SxD/z1xJN6C7G7ygeiCuDOR88ZFAMoky9nCm9JgACEuJiVbVV6/4a
+      roles:
+      - viewer
+    yoaa:
+      email: gejimo9187@ethsms.com
+      failed_login_attempts: 0
+      first_name: Yoa
+      last_name: Mar
+      logged_in: false
+      password: $2b$12$mwVlOpKCxBfEX/Bodo5gJePwN5Kp0mFeZD3s.19g2pUq8LqlaCoVy
+      password_hint: yoa-00125Y
+      roles: null
+oauth2:
+  google:
+    client_id: null
+    client_secret: null
+    redirect_uri: null
+  microsoft:
+    client_id: null
+    client_secret: null
+    redirect_uri: null
+    tenant_id: null
+pre-authorized:
+  emails:
+  - melsby@gmail.com
